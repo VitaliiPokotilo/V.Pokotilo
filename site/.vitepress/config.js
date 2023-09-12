@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Імя Студента",
+  title: "Vitalii Pokotilo",
   description: "Завдання Ім'я Студента",
 
   // replace knu-template with name of your repository
