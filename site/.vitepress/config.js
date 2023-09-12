@@ -6,7 +6,7 @@ export default defineConfig({
   description: "Завдання Ім'я Студента",
 
   // replace knu-template with name of your repository
-  base: "/knu-template/",
+  base: "/V.Pokotilo/",
 
   themeConfig: {
     nav: [{ text: "Лабораторні", link: "/labs/1" }],
